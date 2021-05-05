@@ -1,0 +1,2 @@
+pygame
+firebase_admin
